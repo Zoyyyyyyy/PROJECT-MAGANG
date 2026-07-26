@@ -103,8 +103,8 @@
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/Zoyyyyyyy/pos-mieayam.git](https://github.com/Zoyyyyyyy/pos-mieayam.git)
-cd pos-mieayam
+git clone [https://github.com/Zoyyyyyyy/MieOs.git](https://github.com/Zoyyyyyyy/MieOs.git)
+cd MieOs
 ```
 ### 2. Install Dependencies
 ```bash
