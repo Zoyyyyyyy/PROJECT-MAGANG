@@ -121,11 +121,11 @@ npm run dev
 ```
 Buka http://localhost:3000 di browser.🗄️ 
 Setup Database & Storage Supabase
-#### 1. Buat Storage Bucket
+### 5. Buat Storage Bucket
 1. Buka Dashboard Supabase $\rightarrow$ Storage $\rightarrow$ New Bucket.
 2. Beri nama: produk-images.
 3. Set status ke Public.
-#### 2. Eksekusi Schema & RLS PolicyBuka SQL Editor di Supabase Dashboard, lalu jalankan query SQL berikut:
+### 6. Eksekusi Schema & RLS PolicyBuka SQL Editor di Supabase Dashboard, lalu jalankan query SQL berikut:
 ```SQL
 -- TABEL PRODUK
 CREATE TABLE produk (
