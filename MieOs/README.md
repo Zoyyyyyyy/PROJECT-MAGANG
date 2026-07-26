@@ -103,7 +103,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/username/pos-mieayam.git](https://github.com/username/pos-mieayam.git)
+git clone [https://github.com/Zoyyyyyyy/pos-mieayam.git](https://github.com/Zoyyyyyyy/pos-mieayam.git)
 cd pos-mieayam
 ```
 ### 2. Install Dependencies
@@ -112,8 +112,8 @@ npm install
 ```
 ### 3. Setup Environment Variables Buat file .env.local di root folder proyek:
 ```Cuplikan kode
-NEXT_PUBLIC_SUPABASE_URL=[https://ceaoscadxyjykweofwfr.supabase.co](https://ceaoscadxyjykweofwfr.supabase.co)
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+NEXT_PUBLIC_SUPABASE_URL=[https://xxxxxxxxxxxxxx.supabase.co](https://xxxxxxxxxxxxxxx.supabase.co)
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyxxxxxxxxxxxxxxxxxxxxx...
 ```
 ### 4. Jalankan Development Server
 ```Bash
