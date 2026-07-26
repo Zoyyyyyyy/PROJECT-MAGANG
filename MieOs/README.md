@@ -66,13 +66,17 @@
 
 ## 🖥️ Screenshot
 
-| Halaman Kasir (POS) | Dashboard & Rekap AI Analytics |
+| Halaman Kasir (POS) | Dashboard Rekap & AI Analytics |
 |---|---|
-| ![Kasir](docs/kasir.png) | ![Dashboard](docs/dashboard.png) |
+| ![Kasir](docs/kasir.png) | ![Rekap AI](docs/rekap_with-ai.png) |
 
-| Manajemen Menu | Laporan & Export PDF |
+| Manajemen Menu & Produk | Pengeluaran (Expense) |
 |---|---|
-| ![Menu](docs/menu.png) | ![Laporan](docs/laporan.png) |
+| ![Manajemen Menu](docs/sett_menu.png) | ![Pengeluaran](docs/pengeluaran.png) |
+
+| Pengaturan Sistem & API Key |
+|---|
+| ![Pengaturan Web](docs/setting_web.png) |
 
 ---
 
