@@ -213,7 +213,8 @@ vercel --prod
 Catatan: Jangan lupa tambahkan NEXT_PUBLIC_SUPABASE_URL dan 
 NEXT_PUBLIC_SUPABASE_ANON_KEY pada menu Settings → Environment Variables di Dashboard Vercel.
 
-## 📁 Struktur Projectpos_mieayam/
+## 📁 Struktur Projectpos_mieayam
+```/
 ├── app/
 │   ├── (dashboard)/
 │   │   ├── kasir/         # Halaman Kasir (POS Interface)
@@ -230,7 +231,8 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY pada menu Settings → Environment Variables di Da
 ├── PRD.md                 # Product Requirement Document
 ├── README.md              # Dokumentasi Utama Repository
 └── next.config.js         # Configuration Next.js
-
+```
+---
 <div align="center">
 📄 LisensiProject ini dilindungi di bawah lisensi MIT.
 
